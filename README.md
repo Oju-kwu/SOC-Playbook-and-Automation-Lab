@@ -8,4 +8,19 @@ Maintaining trust and meeting regulatory requirements is crucial to protect conf
 ## Objective
 This plan provides a comprehensive approach to respond to a privileged account compromise, addressing different methods of attack, and ensuring thorough detection, containment, and remediation processes.
 
+![image](https://github.com/user-attachments/assets/eb852df3-d08c-4eb8-83a9-2ca4f6f299d6)
+
+## PREPARATION: 
+These preparation steps are crucial to establishing an effective Cybersecurity Incident Response Team and ensuring that Apex Capital is ready to respond promptly and effectively to security incidents. Preparation must be completed before an incident.
+
+1. Determine the Members of the Cybersecurity Incident Response Team (CSIRT)
+## Core CSIRT Member
+Composition: The core CSIRT includes members from Information Technology roles and a few roles from various departments for support, this helps maintain confidentiality and efficiency.
+
+
+
+
+
+
+
 

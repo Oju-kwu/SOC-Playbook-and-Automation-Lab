@@ -98,7 +98,7 @@ Evidence: Suspicious email with phishing links, spelling errors, and odd address
 ## 3. Containment, Eradication, and Recovery
 
 ### Containment
-
+These steps in containment should be followed cautiously and carried out based on the kind of attack and the response that best handles the compromise.
 **Immediate Actions:**
 - Lock compromised accounts, reset passwords, enforce MFA.
 - Block phishing sources and suspicious domains.
@@ -112,37 +112,51 @@ Evidence: Suspicious email with phishing links, spelling errors, and odd address
 
 ### Eradication
 
-- Identify attack vectors and remove malicious files.
-- Use anti-malware tools for scans.
-- Apply security patches.
-- Reset all credentials and disable compromised accounts.
-- Close exploited firewall ports and connections.
+- Identify the root cause of the malware; phishing,
+- Remove the malicious files and processes identified on the infected systems.
+- Use antivirus and anti-malware tools to scan and clean the affected
+  endpoints.
+- Update all software and apply necessary patches to address vulnerabilities
+ exploited by the attackers.
+- Ensure the latest security updates are installed on all systems.
+# Credential Reset:
+- Reset passwords for compromised accounts and ensure multi-factor
+  authentication (MFA) is enforced.
+- Monitor for any suspicious account activities post-incident.
+- Disable the compromised account and isolate affected systems.
+- Scan and clean affected systems using antivirus and anti-malware tools.
+- Close firewall ports and network connections that were used during the attack.
+
 
 ### Recovery
 
-- Return systems to production after confirming safety.
-- Apply patches and conduct vulnerability scans.
-- Notify internal/external stakeholders of resolution steps.
-- Maintain monitoring for any ongoing threat.
+- Apply the latest security patches and software updates to address vulnerabilities exploited by the attackers.
+- Return any systems that were taken offline to production.
+-  Close network access previously used by the attackers and reset passwords for affected accounts.
+- Download and apply the latest security patches to address any vulnerabilities exploited during the incident.
+- Conduct a vulnerability analysis to ensure that all identified issues have been resolved.
+- Inform employees about the recovery process and any changes made.
+- Share recovery information externally through appropriate channels
+- Continue to monitor for any signs of malicious activity related to the incident to ensure that the threat has been fully eradicated.
 
 
 
 ## 4. Post-Incident Activities
 
 - Evaluate incident costs and outcomes.
-- Identify successful and unsuccessful aspects of the response.
-- Patch vulnerabilities and enhance defenses.
-- Train staff and update protocols.
-- Distribute reports:
-  - **Incident Report** (detailed, technical)
-  - **Executive Summary** (high-level)
-
-
-## Appendix
-
-- Ensure employee and CSIRT training.
-- Maintain robust OS and app patching.
-- Review this plan after every major incident.
+- Evaluate the cost of the incident.
+- Discuss the following questions and document the information for future reference.
+   what went well during the investigation?
+- Identify areas that did not go well during the investigation.
+- Determine any vulnerabilities or gaps in the organization’s security and how to address them.
+- Explore additional steps or actions that could have helped prevent the incident.
+- Consider whether modifications must be made to existing protocols or procedures.
+- Update the incident response plan.
+- Maintain robust application security Operating System and Application patching procedures
+- Employee, IT, or CSIRT Training
+- Create and distribute an incident report to relevant parties
+- Document all information and more technical reports for the CSIRT.
+- Document and present an executive summary of the incident to the management team.
 
 
 

@@ -33,10 +33,10 @@ Composition: The core CSIRT includes members from Information Technology roles a
 
 | **Role**                          | **Responsibility** | **Contact** |
 |----------------------------------|--------------------|-------------|
-| **Marketing & PR Lead** | Handles external communications and crisis messaging. | Chukwuemeka Anthony<br>📞 07056432134<br>📧 anthonyemeka@apex-capital.org |
-| **Web & Social Media Lead** | Publishes updates on web/social channels, monitors feedback. | Sodiq Isah<br>📞 08045792236<br>📧 sodiqisah@apex-capital.com |
-| **Technical Support (Internal)** | Provides internal guidance and bulletins. | Amos Oghenetega<br>📞 09024657688<br>📧 amosoghenetega@apex-capital.org |
-| **Technical Support (External)** | Supports external users during a breach. | Akpan Okon<br>📞 08123567890<br>📧 akpanokon@gmail.com |
+| **Marketing & PR Lead** | Handles external communications and crisis messaging. | Chukwuemeka Anthony<br>📞 07056...<br>📧 anth.......eka@apex-capital.org |
+| **Web & Social Media Lead** | Publishes updates on web/social channels, monitors feedback. | Sodiq Isah<br>📞 08045...<br>📧 sod....sah@apex-capital.com |
+| **Technical Support (Internal)** | Provides internal guidance and bulletins. | Amos Oghenetega<br>📞 09024....<br>📧 amos......ega@apex-capital.org |
+| **Technical Support (External)** | Supports external users during a breach. | Akpan Okon<br>📞 08123....<br>📧 ak.....on@gmail.com |
 
 ---
 

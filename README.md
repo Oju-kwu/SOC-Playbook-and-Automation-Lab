@@ -20,14 +20,14 @@ Composition: The core CSIRT includes members from Information Technology roles a
 
 | **Role**                          | **Responsibility** | **Contact** |
 |----------------------------------|--------------------|-------------|
-| **Information Security**<br>Chief Information Security Officer | Develops incident response criteria and communicates with the executive team and Board. | Seun Matthew<br>📞 09051120975<br>📧 seunmatthew@apex-capital.org |
-| **Incident Response Team**<br>Lead and Team Members | Maintains the IR plan, conducts checks, identifies and evaluates incidents. | Ese Brume<br>📞 08054768572<br>📧 brumeese@apex-capital.org |
-| **Identity and Access Management**<br>Team Lead and Members | Manages privilege audits, monitors activity, and responds to account compromises. | Paul Ike<br>📞 08143304076<br>📧 paulike@apex-capital.org |
-| **IT Operations and Support** | Manages system access and software updates. | Micheal Nwokeke<br>📞 08036713523<br>📧 michealnwokeke@apex-capital.org |
-| **Legal Counsel** | Confirms breach notification requirements, checks law enforcement involvement. | Kemi Oshinowo<br>📞 07074696452<br>📧 kemioshinowo@apex-capital.org |
-| **Audit & Compliance** | Manages regulatory reporting. | Sydney Biose<br>📞 08067534219<br>📧 sydneybiose@apex-capital.org |
-| **Human Resources** | Communicates breach info to employees. | Adenike Ola<br>📞 08185697166<br>📧 adenikeola@apex-capital.org |
-| **Regulatory Contact** | Manages breach info to regulators. | Chioma Aniekwe<br>📞 08156723489<br>📧 chiomaaniekwe@apex-capital.org |
+| **Information Security**<br>Chief Information Security Officer | Develops incident response criteria and communicates with the executive team and Board. | Seun Matthew<br>📞 09051...75<br>📧 seu...ew@apex-capital.org |
+| **Incident Response Team**<br>Lead and Team Members | Maintains the IR plan, conducts checks, identifies and evaluates incidents. | Ese Brume<br>📞 0805....72<br>📧 b...e@apex-capital.org |
+| **Identity and Access Management**<br>Team Lead and Members | Manages privilege audits, monitors activity, and responds to account compromises. | Paul Ike<br>📞 081.....76<br>📧 pa...ike@apex-capital.org |
+| **IT Operations and Support** | Manages system access and software updates. | Micheal Nwokeke<br>📞 0803....23<br>📧 mich....ke@apex-capital.org |
+| **Legal Counsel** | Confirms breach notification requirements, checks law enforcement involvement. | Kemi Oshinowo<br>📞 070.....2<br>📧 ke....o@apex-capital.org |
+| **Audit & Compliance** | Manages regulatory reporting. | Sydney Biose<br>📞 0801......9<br>📧 sy....se@apex-capital.org |
+| **Human Resources** | Communicates breach info to employees. | Adenike Ola<br>📞 081.....66<br>📧 ad....ola@apex-capital.org |
+| **Regulatory Contact** | Manages breach info to regulators. | Chioma Aniekwe<br>📞 081.....89<br>📧 chi....e@apex-capital.org |
 
 #### Communications Team
 
